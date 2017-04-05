@@ -1,0 +1,16 @@
+<images xmlns="http://www.gutenberg.ph/2006/schemas/imageinfo">
+<image path="images/book.png" filesize="364" filedate="2009-07-22 18:13:49" width="16px" height="16px">
+</image>
+<image path="images/card.png" filesize="249" filedate="2010-02-11 22:03:56" width="16px" height="11px">
+</image>
+<image path="images/external.png" filesize="172" filedate="2009-07-22 16:17:10" width="12px" height="12px">
+</image>
+<image path="images/hollow-earth.png" filesize="24018" filedate="2017-04-02 18:54:13" width="524px" height="687px">
+</image>
+<image path="images/new-cover-tn.jpg" filesize="11053" filedate="2017-04-02 19:29:56" width="213px" height="320px">
+</image>
+<image path="images/new-cover.jpg" filesize="44839" filedate="2017-04-02 19:29:19" width="480px" height="720px">
+</image>
+<image path="images/titlepage.png" filesize="6056" filedate="2017-04-02 18:42:17" width="458px" height="720px">
+</image>
+</images>
